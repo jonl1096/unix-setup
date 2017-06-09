@@ -4,4 +4,4 @@ I got tired of setting up different linux environments so now I can do everythin
 
 ## Usage
 
-`$ . linux_setup.sh`
+`$. linux_setup.sh`
